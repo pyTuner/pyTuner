@@ -1,80 +1,120 @@
-<!-- Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Tejas%20Dabholkar&fontSize=48&fontAlignY=35)
+<!-- Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=Tejas%20Dabholkar&fontSize=48&fontAlignY=38)
 
-## 👋 Hi, I'm Tejas Dabholkar
-
-### 🚀 Turning Ideas into Scalable Mobile & Backend Solutions
-
-I'm a passionate **Software Engineer** with strong experience in **React Native**, **Node.js**, and **TypeScript**, focused on building reliable, scalable, and secure applications.  
-I enjoy working close to real-world problems — from mobile performance to backend integrations and security testing.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer;React+%7C+React+Native+Developer;Backend+with+Node+%26+Databases;Mobile+%7C+Web+%7C+Cloud" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi, I'm Tejas Dabholkar
 
-- 📱 Building **production-grade React Native apps** (Android & iOS)
-- 🧠 Exploring **Kotlin** and native Android internals
-- 🔐 Experienced with **VAPT, SSL pinning, and security testing**
-- 💳 Integrating **payment gateways** like Stripe
-- 🏗️ Working on **scalable backend systems** using Node.js & TypeScript
-- 🌱 Constantly improving app architecture & performance
+### 🚀 Turning Ideas into Scalable Mobile & Web Solutions
+
+I’m a **Software Engineer** specializing in **React, React Native, and Backend systems**, with hands-on experience building **production-grade mobile apps**, scalable APIs, and secure enterprise solutions.  
+I focus on **performance, clean architecture, and real-world problem solving**.
+
+---
+
+## 🧠 What I Do
+
+- 📱 Build **cross-platform mobile apps** (Android & iOS)
+- 🌐 Develop **modern web applications**
+- 🏗️ Design **scalable backend systems**
+- 🔐 Work on **security testing (VAPT, SSL pinning)**
+- 🚀 Deploy apps using **cloud & DevOps tooling**
+- 🧪 Optimize performance & architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+### 📱 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
+</p>
 
 - React Native (CLI)
-- Android (Kotlin)
-- iOS (Xcode, App Store distribution)
+- Android (Native)
+- iOS (Xcode, App Store Distribution)
+- React Native Paper
 
 ---
 
-### 🌐 Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+### 🌐 Frontend (Web)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
+
+- React
+- Angular
+- Material UI
+- Tailwind CSS
+- Bootstrap
+
+---
+
+### 🧩 Backend & APIs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+</p>
 
 - Node.js
-- TypeScript
+- Express.js
 - REST APIs
-- Oracle DB integration
+- Authentication & Authorization
+- Payment Gateway Integrations (Stripe)
 
 ---
 
-### 🗄️ Databases & State
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
+</p>
 
 - MongoDB
-- Redux
-- MobX
+- MySQL
+- Oracle DB
 
 ---
 
-### 🔧 Tools & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40"/>
+### ☁️ Cloud, DevOps & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+</p>
 
 - Git & GitHub
-- macOS
-- App Store & Play Store publishing
-- Chrome Extensions
+- Linux
+- Docker
+- AWS
+- Azure
+- CI/CD & Deployment Pipelines
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasDabholkar&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TejasDabholkar&show_icons=true&rank_icon=github&theme=default" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasDabholkar&layout=compact" height="165"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasDabholkar" />
@@ -82,25 +122,33 @@ I enjoy working close to real-world problems — from mobile performance to back
 
 ---
 
-## 🌐 Projects & Interests
+## 🐍 Contribution Snake (Animated)
 
-- 📱 Industrial & enterprise mobile apps
-- 🧩 Complex FlatList & performance optimization
-- 🧪 Security testing (VAPT)
-- 🌍 Chrome extensions
-- 🧠 Learning system design & clean architecture
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Areas of Interest
 
-- 📧 Email: *add your email here*
+- Enterprise & industrial mobile apps
+- Performance optimization (FlatList, memory, rendering)
+- Secure app development
+- Cloud-native applications
+- Chrome Extensions
+- System design & clean architecture
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: *add your email*
 - 🌐 Portfolio: *add your portfolio link*
-- 💼 LinkedIn: *add LinkedIn URL*
-- 🧑‍💻 GitHub: https://github.com/pyTuner
+- 💼 LinkedIn: *add LinkedIn link*
+- 🧑‍💻 GitHub: https://github.com/TejasDabholkar
 
 ---
 
-<!-- Footer -->
+<!-- Animated Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
