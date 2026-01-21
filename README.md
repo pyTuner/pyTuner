@@ -97,7 +97,7 @@ I enjoy working close to real-world problems — from mobile performance to back
 - 📧 Email: *add your email here*
 - 🌐 Portfolio: *add your portfolio link*
 - 💼 LinkedIn: *add LinkedIn URL*
-- 🧑‍💻 GitHub: https://github.com/TejasDabholkar
+- 🧑‍💻 GitHub: https://github.com/pyTuner
 
 ---
 
