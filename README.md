@@ -143,10 +143,9 @@ I focus on **performance, clean architecture, and real-world problem solving**.
 
 ## 📫 Let’s Connect
 
-- 📧 Email: *add your email*
-- 🌐 Portfolio: *add your portfolio link*
-- 💼 LinkedIn: *add LinkedIn link*
-- 🧑‍💻 GitHub: https://github.com/TejasDabholkar
+- 📧 Email: tejasdabholkarv@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tejasdabholkar/
+- 🧑‍💻 GitHub: https://github.com/pyTuner
 
 ---
 
