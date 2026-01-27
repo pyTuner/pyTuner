@@ -144,6 +144,7 @@ I focus on **performance, clean architecture, and real-world problem solving**.
 ## 📫 Let’s Connect
 
 - 📧 Email: tejasdabholkarv@gmail.com
+- 🌐 Portfolio: https://my-portfolio-nine-flax-28.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/tejasdabholkar/
 - 🧑‍💻 GitHub: https://github.com/pyTuner
 
